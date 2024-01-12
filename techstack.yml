@@ -1,0 +1,323 @@
+repo_name: 2lambda123/deepspace
+report_id: 636df5dd2ffe96b86df1081451e58659
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-09T07:56:17+00:00'
+requested_by: simonswain
+provider: github
+branch: master
+detected_tools_count: 19
+tools:
+- name: Handlebars.js
+  description: Minimal Templating on Steroids
+  website_url: http://handlebarsjs.com/
+  version: 2.0.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/1143/Handlebars.png
+  detection_source_url: https://github.com/2lambda123/deepspace/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Simon Swain
+  last_updated_on: 2014-11-25 01:12:26.000000000 Z
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/2lambda123/deepspace
+  detection_source: Repo Metadata
+- name: Backbone.js
+  description: Give your JS App some Backbone with Models, Views, Collections, and
+    Events
+  website_url: http://backbonejs.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Javascript MVC Frameworks
+  image_url: https://img.stackshare.io/service/1017/Screen_Shot_2012-04-28_at_8.52.15_PM.png
+  detection_source_url: https://github.com/2lambda123/deepspace/blob/master/bower.json
+  detection_source: bower.json
+  last_updated_by: Simon Swain
+  last_updated_on: 2014-11-25 01:12:26.000000000 Z
+- name: hapi
+  description: Server Framework for Node.js
+  website_url: http://hapijs.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1166/AC_RK5Ra_400x400.png
+  detection_source_url: https://github.com/2lambda123/deepspace/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Simon Swain
+  last_updated_on: 2014-11-25 01:12:26.000000000 Z
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  version: 2.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/deepspace/blob/master/bower.json
+  detection_source: bower.json
+  last_updated_by: Simon Swain
+  last_updated_on: 2014-11-25 01:12:26.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/deepspace
+  detection_source: Repo Metadata
+- name: Grunt
+  description: The JavaScript Task Runner
+  website_url: http://gruntjs.com/
+  version: 0.4.5
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/845/falgg2jybmhgk16y62lr.png
+  detection_source_url: https://github.com/2lambda123/deepspace/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Simon Swain
+  last_updated_on: 2014-11-25 01:12:26.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/2lambda123/deepspace/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Simon Swain
+  last_updated_on: 2014-11-25 01:12:26.000000000 Z
+- name: Underscore
+  description: JavaScript's utility _ belt
+  website_url: http://underscorejs.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/1150/underscore-js.png
+  detection_source_url: https://github.com/2lambda123/deepspace/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Simon Swain
+  last_updated_on: 2014-11-25 01:12:26.000000000 Z
+- name: Winston
+  description: a multi-transport async logging library for node.js
+  website_url: https://github.com/winstonjs/winston
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/6668/9682013.png
+  detection_source_url: https://github.com/2lambda123/deepspace/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Simon Swain
+  last_updated_on: 2014-11-25 01:12:26.000000000 Z
+- name: async
+  description: Higher-order functions and common patterns for asynchronous code
+  package_url: https://www.npmjs.com/async
+  version: 0.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15851/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: https://github.com/2lambda123/deepspace/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Simon Swain
+  last_updated_on: 2014-11-25 01:12:26.000000000 Z
+- name: grunt-contrib-jshint
+  description: Validate files with JSHint
+  package_url: https://www.npmjs.com/grunt-contrib-jshint
+  version: 0.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15898/default_59a1b5716eefa3750c20936c3d53ff13a6390ee1.png
+  detection_source_url: https://github.com/2lambda123/deepspace/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Simon Swain
+  last_updated_on: 2014-11-25 01:12:26.000000000 Z
+- name: grunt-contrib-nodeunit
+  description: Run Nodeunit unit tests
+  package_url: https://www.npmjs.com/grunt-contrib-nodeunit
+  version: 0.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16061/default_2640651a9f2aee697089f452de5088fc920bd543.png
+  detection_source_url: https://github.com/2lambda123/deepspace/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Simon Swain
+  last_updated_on: 2014-11-25 01:12:26.000000000 Z
+- name: handlebars
+  description: Handlebars provides the power necessary to let you build semantic templates
+    effectively with no frustration
+  package_url: https://www.npmjs.com/handlebars
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16013/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/2lambda123/deepspace/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Simon Swain
+  last_updated_on: 2014-11-25 01:12:26.000000000 Z
+  vulnerabilities:
+  - name: Prototype Pollution in handlebars
+    cve_id: CVE-2019-19919
+    cve_url: https://github.com/advisories/GHSA-w457-6q6x-cgp9
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 3.0.8
+  - name: Remote code execution in handlebars when compiling templates
+    cve_id: CVE-2021-23369
+    cve_url: https://github.com/advisories/GHSA-f2jv-r9rf-7988
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 4.7.7
+  - name: Prototype Pollution in handlebars
+    cve_id: CVE-2021-23383
+    cve_url: https://github.com/advisories/GHSA-765h-qjxv-5f44
+    detected_date: Feb 11
+    severity: critical
+    first_patched: 4.7.7
+  - name: Prototype Pollution in handlebars
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-q42p-pg8m-cqh6
+    detected_date: Aug 22
+    severity: high
+    first_patched: 3.0.7
+  - name: Arbitrary Code Execution in Handlebars
+    cve_id: CVE-2019-20920
+    cve_url: https://github.com/advisories/GHSA-3cqr-58rm-57f8
+    detected_date: Feb 11
+    severity: high
+    first_patched: 3.0.8
+  - name: Arbitrary Code Execution in handlebars
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-q2c6-c6pm-g3gh
+    detected_date: Aug 22
+    severity: high
+    first_patched: 3.0.8
+  - name: Prototype Pollution in handlebars
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-g9r4-xpmj-mj65
+    detected_date: Aug 22
+    severity: high
+    first_patched: 3.0.8
+  - name: Arbitrary Code Execution in handlebars
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-2cf5-4w76-r9qv
+    detected_date: Aug 22
+    severity: high
+    first_patched: 3.0.8
+  - name: Moderate severity vulnerability that affects handlebars
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-fmr4-7g9q-7hc7
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 4.0.0
+  - name: Remote code execution in Handlebars.js
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-6r5x-hmgg-7h53
+    detected_date: Aug 13
+    severity: moderate
+    first_patched: 4.1.0
+  - name: Cross-Site Scripting in handlebars
+    cve_id: CVE-2015-8861
+    cve_url: https://github.com/advisories/GHSA-9prh-257w-9277
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 4.0.0
+- name: nodeunit
+  description: Easy unit testing for node.js and the browser
+  package_url: https://www.npmjs.com/nodeunit
+  version: 0.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16216/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
+  detection_source_url: https://github.com/2lambda123/deepspace/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Simon Swain
+  last_updated_on: 2014-11-25 01:12:26.000000000 Z
+- name: winston
+  description: A logger for just about everything
+  package_url: https://www.npmjs.com/winston
+  version: 0.7.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16003/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
+  detection_source_url: https://github.com/2lambda123/deepspace/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Simon Swain
+  last_updated_on: 2014-11-25 01:12:26.000000000 Z
+- name: backbone
+  description: Give your JS App some Backbone with Models
+  package_url: http://bower.io/backbone
+  version: 1.1.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/2lambda123/deepspace/blob/master/bower.json
+  detection_source: bower.json
+  last_updated_by: Simon Swain
+  last_updated_on: 2014-11-25 01:12:26.000000000 Z
+- name: node-uuid
+  description: Rigorous implementation of RFC4122
+  package_url: http://bower.io/node-uuid
+  version: 1.4.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/2lambda123/deepspace/blob/master/bower.json
+  detection_source: bower.json
+  last_updated_by: Simon Swain
+  last_updated_on: 2014-11-25 01:12:26.000000000 Z
+- name: underscore
+  description: JavaScript's utility _ belt
+  package_url: http://bower.io/underscore
+  version: 1.7.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/2lambda123/deepspace/blob/master/bower.json
+  detection_source: bower.json
+  last_updated_by: Simon Swain
+  last_updated_on: 2014-11-25 01:12:26.000000000 Z
