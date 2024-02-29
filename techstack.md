@@ -3,13 +3,13 @@
 ## Tech Stack
 2lambda123/deepspace is built on the following main stack:
 
-- [Grunt](http://gruntjs.com/) – JS Build Tools / JS Task Runners
-- [Backbone.js](http://backbonejs.org/) – Javascript MVC Frameworks
-- [jQuery](http://jquery.com/) – Javascript UI Libraries
 - [Handlebars.js](http://handlebarsjs.com/) – Templating Languages & Extensions
-- [Underscore](http://underscorejs.org/) – Javascript Utilities & Libraries
-- [hapi](http://hapijs.com/) – Microframeworks (Backend)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Backbone.js](http://backbonejs.org/) – Javascript MVC Frameworks
+- [hapi](http://hapijs.com/) – Microframeworks (Backend)
+- [jQuery](http://jquery.com/) – Javascript UI Libraries
+- [Grunt](http://gruntjs.com/) – JS Build Tools / JS Task Runners
+- [Underscore](http://underscorejs.org/) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -19,13 +19,13 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 2lambda123/deepspace is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/845/falgg2jybmhgk16y62lr.png' alt='Grunt'/> [Grunt](http://gruntjs.com/) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/1017/Screen_Shot_2012-04-28_at_8.52.15_PM.png' alt='Backbone.js'/> [Backbone.js](http://backbonejs.org/) – Javascript MVC Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg' alt='jQuery'/> [jQuery](http://jquery.com/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1143/Handlebars.png' alt='Handlebars.js'/> [Handlebars.js](http://handlebarsjs.com/) – Templating Languages & Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/1150/underscore-js.png' alt='Underscore'/> [Underscore](http://underscorejs.org/) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/1166/AC_RK5Ra_400x400.png' alt='hapi'/> [hapi](http://hapijs.com/) – Microframeworks (Backend)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1017/Screen_Shot_2012-04-28_at_8.52.15_PM.png' alt='Backbone.js'/> [Backbone.js](http://backbonejs.org/) – Javascript MVC Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/1166/AC_RK5Ra_400x400.png' alt='hapi'/> [hapi](http://hapijs.com/) – Microframeworks (Backend)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg' alt='jQuery'/> [jQuery](http://jquery.com/) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/845/falgg2jybmhgk16y62lr.png' alt='Grunt'/> [Grunt](http://gruntjs.com/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/1150/underscore-js.png' alt='Underscore'/> [Underscore](http://underscorejs.org/) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -36,7 +36,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [2lambda123/deepspace](https://github.com/2lambda123/deepspace)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|19<br/>Tools used|01/09/24 <br/>Report generated|
+|19<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -150,7 +150,7 @@ Full tech stack [here](/techstack.md)
 |[async](https://www.npmjs.com/async)|v0.9.0|11/25/14|Simon Swain |MIT|N/A|
 |[grunt-contrib-jshint](https://www.npmjs.com/grunt-contrib-jshint)|v0.10.0|11/25/14|Simon Swain |MIT|N/A|
 |[grunt-contrib-nodeunit](https://www.npmjs.com/grunt-contrib-nodeunit)|v0.4.1|11/25/14|Simon Swain |MIT|N/A|
-|[handlebars](https://www.npmjs.com/handlebars)|v2.0.0|11/25/14|Simon Swain |MIT|[CVE-2019-19919](https://github.com/advisories/GHSA-w457-6q6x-cgp9) (Critical)<br/>[CVE-2021-23369](https://github.com/advisories/GHSA-f2jv-r9rf-7988) (Critical)<br/>[CVE-2021-23383](https://github.com/advisories/GHSA-765h-qjxv-5f44) (Critical)<br/>[](https://github.com/advisories/GHSA-q42p-pg8m-cqh6) (High)<br/>[CVE-2019-20920](https://github.com/advisories/GHSA-3cqr-58rm-57f8) (High)<br/>[](https://github.com/advisories/GHSA-q2c6-c6pm-g3gh) (High)<br/>[](https://github.com/advisories/GHSA-g9r4-xpmj-mj65) (High)<br/>[](https://github.com/advisories/GHSA-2cf5-4w76-r9qv) (High)<br/>[](https://github.com/advisories/GHSA-fmr4-7g9q-7hc7) (Moderate)<br/>[](https://github.com/advisories/GHSA-6r5x-hmgg-7h53) (Moderate)<br/>[CVE-2015-8861](https://github.com/advisories/GHSA-9prh-257w-9277) (Moderate)|
+|[handlebars](https://www.npmjs.com/handlebars)|v2.0.0|11/25/14|Simon Swain |MIT|[CVE-2021-23369](https://github.com/advisories/GHSA-f2jv-r9rf-7988) (Critical)<br/>[CVE-2021-23383](https://github.com/advisories/GHSA-765h-qjxv-5f44) (Critical)<br/>[CVE-2019-19919](https://github.com/advisories/GHSA-w457-6q6x-cgp9) (Critical)<br/>[CVE-2019-20920](https://github.com/advisories/GHSA-3cqr-58rm-57f8) (High)<br/>[](https://github.com/advisories/GHSA-2cf5-4w76-r9qv) (High)<br/>[](https://github.com/advisories/GHSA-g9r4-xpmj-mj65) (High)<br/>[](https://github.com/advisories/GHSA-q42p-pg8m-cqh6) (High)<br/>[](https://github.com/advisories/GHSA-q2c6-c6pm-g3gh) (High)<br/>[](https://github.com/advisories/GHSA-fmr4-7g9q-7hc7) (Moderate)<br/>[](https://github.com/advisories/GHSA-6r5x-hmgg-7h53) (Moderate)<br/>[CVE-2015-8861](https://github.com/advisories/GHSA-9prh-257w-9277) (Moderate)|
 |[nodeunit](https://www.npmjs.com/nodeunit)|v0.9.0|11/25/14|Simon Swain |MIT|N/A|
 |[winston](https://www.npmjs.com/winston)|v0.7.3|11/25/14|Simon Swain |MIT|N/A|
 
