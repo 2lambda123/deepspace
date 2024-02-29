@@ -2,7 +2,7 @@ repo_name: 2lambda123/deepspace
 report_id: 636df5dd2ffe96b86df1081451e58659
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-09T07:56:17+00:00'
+timestamp: '2024-02-29T19:18:33+00:00'
 requested_by: simonswain
 provider: github
 branch: master
@@ -188,12 +188,6 @@ tools:
   last_updated_by: Simon Swain
   last_updated_on: 2014-11-25 01:12:26.000000000 Z
   vulnerabilities:
-  - name: Prototype Pollution in handlebars
-    cve_id: CVE-2019-19919
-    cve_url: https://github.com/advisories/GHSA-w457-6q6x-cgp9
-    detected_date: Aug 22
-    severity: critical
-    first_patched: 3.0.8
   - name: Remote code execution in handlebars when compiling templates
     cve_id: CVE-2021-23369
     cve_url: https://github.com/advisories/GHSA-f2jv-r9rf-7988
@@ -207,11 +201,11 @@ tools:
     severity: critical
     first_patched: 4.7.7
   - name: Prototype Pollution in handlebars
-    cve_id: 
-    cve_url: https://github.com/advisories/GHSA-q42p-pg8m-cqh6
+    cve_id: CVE-2019-19919
+    cve_url: https://github.com/advisories/GHSA-w457-6q6x-cgp9
     detected_date: Aug 22
-    severity: high
-    first_patched: 3.0.7
+    severity: critical
+    first_patched: 3.0.8
   - name: Arbitrary Code Execution in Handlebars
     cve_id: CVE-2019-20920
     cve_url: https://github.com/advisories/GHSA-3cqr-58rm-57f8
@@ -220,7 +214,7 @@ tools:
     first_patched: 3.0.8
   - name: Arbitrary Code Execution in handlebars
     cve_id: 
-    cve_url: https://github.com/advisories/GHSA-q2c6-c6pm-g3gh
+    cve_url: https://github.com/advisories/GHSA-2cf5-4w76-r9qv
     detected_date: Aug 22
     severity: high
     first_patched: 3.0.8
@@ -230,9 +224,15 @@ tools:
     detected_date: Aug 22
     severity: high
     first_patched: 3.0.8
+  - name: Prototype Pollution in handlebars
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-q42p-pg8m-cqh6
+    detected_date: Aug 22
+    severity: high
+    first_patched: 3.0.7
   - name: Arbitrary Code Execution in handlebars
     cve_id: 
-    cve_url: https://github.com/advisories/GHSA-2cf5-4w76-r9qv
+    cve_url: https://github.com/advisories/GHSA-q2c6-c6pm-g3gh
     detected_date: Aug 22
     severity: high
     first_patched: 3.0.8
